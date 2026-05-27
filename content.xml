@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605271322295URCQP</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260527132229EHUU3U</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SOMOS ESCRITORES Y ESCRITORAS</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Macarena</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El centro de interés va a girar en torno a la creación de historias originales a través del trabajo en grupo y el uso de herramientas digitales. La idea es que el alumnado desarrolle su imaginación y su capacidad de expresión escrita mientras aprende a colaborar con otros compañeros/as. Además, se plantea el uso de distintas aplicaciones como Google Docs, Canva o Genially, no solo para escribir, sino también para enriquecer las historias con elementos visuales y hacerlas más atractivas.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779878725117</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>e8a38b34-77c8-458d-a0cf-2b910a09ada2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descripción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>e8a38b34-77c8-458d-a0cf-2b910a09ada2</odePageId>
+      <odeBlockId>block-1779878902456-8b1zbsbv5</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>e8a38b34-77c8-458d-a0cf-2b910a09ada2</odePageId>
+          <odeBlockId>block-1779878902456-8b1zbsbv5</odeBlockId>
+          <odeIdeviceId>idevice-1779878902449-86eapleiv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El centro de interés va a girar en torno a la creación de historias originales a través del trabajo en grupo y el uso de herramientas digitales. La idea es que el alumnado desarrolle su imaginación y su capacidad de expresión escrita mientras aprende a colaborar con otros compañeros/as. Además, se plantea el uso de distintas aplicaciones como Google Docs, Canva o Genially, no solo para escribir, sino también para enriquecer las historias con elementos visuales y hacerlas más atractivas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779878902449-86eapleiv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El centro de interés va a girar en torno a la creación de historias originales a través del trabajo en grupo y el uso de herramientas digitales. La idea es que el alumnado desarrolle su imaginación y su capacidad de expresión escrita mientras aprende a colaborar con otros compañeros/as. Además, se plantea el uso de distintas aplicaciones como Google Docs, Canva o Genially, no solo para escribir, sino también para enriquecer las historias con elementos visuales y hacerlas más atractivas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779878983780-tr72i4eeu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos personales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779878983780-tr72i4eeu</odePageId>
+      <odeBlockId>block-1779879048061-k1w206sj3</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779878983780-tr72i4eeu</odePageId>
+          <odeBlockId>block-1779879048061-k1w206sj3</odeBlockId>
+          <odeIdeviceId>idevice-1779879048059-rbvup8b1p</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779879048059-rbvup8b1p" title="" href="{{context_path}}/content/resources/2.3. Datos.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/2.3. Datos.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779879048059-rbvup8b1p","img_0":{"img":"{{context_path}}/content/resources/2.3. Datos.jpg","thumbnail":"{{context_path}}/content/resources/2.3. Datos.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779879146843-jmzbf146a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción de producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779879146843-jmzbf146a</odePageId>
+      <odeBlockId>block-1779879205766-tx9imdafd</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779879146843-jmzbf146a</odePageId>
+          <odeBlockId>block-1779879205766-tx9imdafd</odeBlockId>
+          <odeIdeviceId>idevice-1779879205762-5r1mdq0wo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el desarrollo del producto final he planteado el uso de distintas herramientas digitales como Google Docs, Canva y Genially. El objetivo es que el alumnado pueda crear historias originales de forma cooperativa, desarrollando tanto la expresión escrita como la creatividad y la competencia digital.</p>
+<p>La herramienta principal sería Google Docs, ya que permite que varios alumnos/as trabajen al mismo tiempo en un mismo documento. Esto facilita mucho la organización del trabajo cooperativo, el reparto de tareas y la revisión conjunta de los textos. Además, es una herramienta bastante sencilla e intuitiva para alumnado de estas edades.</p>
+<p>También se utilizaría Canva para diseñar portadas, personajes o escenas relacionadas con las historias creadas, ya que suele motivar bastante al alumnado y permite añadir un componente más visual y creativo al trabajo final. Por último, Genially podría emplearse para presentar las historias de forma interactiva, incorporando imágenes, animaciones o enlaces sencillos.</p>
+<p>La elección de estas herramientas se basa principalmente en su facilidad de uso, su versatilidad y su adaptación al contexto del centro. En este caso, el alumnado dispone de ordenadores en el aula, lo que permite desarrollar la actividad sin problemas durante las sesiones. Además, muchas de estas herramientas pueden utilizarse también desde casa, de manera que el alumnado podría continuar o finalizar su trabajo fuera del horario lectivo siempre que disponga de conexión a internet.</p>
+<p>Por otro lado, también se ha tenido en cuenta la competencia digital del alumnado y la accesibilidad. Son herramientas bastante visuales e intuitivas, adecuadas para alumnado de Primaria, y permiten adaptar tamaños de letra, incluir apoyos visuales o facilitar diferentes formas de participación según las necesidades del grupo. Además, el hecho de plantear la actividad de forma cooperativa favorece la inclusión y la ayuda entre iguales, ya que el alumnado puede apoyarse mutuamente durante el proceso, compartir habilidades y participar de manera activa según sus capacidades y fortalezas.</p>
+<p>Creo que este tipo de actividades ayudan mucho a aumentar la motivación del alumnado y permiten trabajar contenidos de Lengua de una manera más dinámica y participativa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779879205762-5r1mdq0wo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el desarrollo del producto final he planteado el uso de distintas herramientas digitales como Google Docs, Canva y Genially. El objetivo es que el alumnado pueda crear historias originales de forma cooperativa, desarrollando tanto la expresión escrita como la creatividad y la competencia digital.</p>\n<p>La herramienta principal sería Google Docs, ya que permite que varios alumnos/as trabajen al mismo tiempo en un mismo documento. Esto facilita mucho la organización del trabajo cooperativo, el reparto de tareas y la revisión conjunta de los textos. Además, es una herramienta bastante sencilla e intuitiva para alumnado de estas edades.</p>\n<p>También se utilizaría Canva para diseñar portadas, personajes o escenas relacionadas con las historias creadas, ya que suele motivar bastante al alumnado y permite añadir un componente más visual y creativo al trabajo final. Por último, Genially podría emplearse para presentar las historias de forma interactiva, incorporando imágenes, animaciones o enlaces sencillos.</p>\n<p>La elección de estas herramientas se basa principalmente en su facilidad de uso, su versatilidad y su adaptación al contexto del centro. En este caso, el alumnado dispone de ordenadores en el aula, lo que permite desarrollar la actividad sin problemas durante las sesiones. Además, muchas de estas herramientas pueden utilizarse también desde casa, de manera que el alumnado podría continuar o finalizar su trabajo fuera del horario lectivo siempre que disponga de conexión a internet.</p>\n<p>Por otro lado, también se ha tenido en cuenta la competencia digital del alumnado y la accesibilidad. Son herramientas bastante visuales e intuitivas, adecuadas para alumnado de Primaria, y permiten adaptar tamaños de letra, incluir apoyos visuales o facilitar diferentes formas de participación según las necesidades del grupo. Además, el hecho de plantear la actividad de forma cooperativa favorece la inclusión y la ayuda entre iguales, ya que el alumnado puede apoyarse mutuamente durante el proceso, compartir habilidades y participar de manera activa según sus capacidades y fortalezas.</p>\n<p>Creo que este tipo de actividades ayudan mucho a aumentar la motivación del alumnado y permiten trabajar contenidos de Lengua de una manera más dinámica y participativa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779879331592-w751iisqq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Padlet alumnado</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Padlet alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779879331592-w751iisqq</odePageId>
+      <odeBlockId>block-1779879363374-20hbuy7uw</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779879331592-w751iisqq</odePageId>
+          <odeBlockId>block-1779879363374-20hbuy7uw</odeBlockId>
+          <odeIdeviceId>idevice-1779879363371-hrg2t185q</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/mguimil484/como-creamos-nuestras-historias-5pq1jwh1pdegmhx9" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779879396859-ppou7wyo1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Symbaloo profesorado</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Symbaloo profesorado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779879396859-ppou7wyo1</odePageId>
+      <odeBlockId>block-1779879398461-m2bb293j4</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779879396859-ppou7wyo1</odePageId>
+          <odeBlockId>block-1779879398461-m2bb293j4</odeBlockId>
+          <odeIdeviceId>idevice-1779879398459-hu0jpnoar</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://www.symbaloo.com/shared/AAAAAQH_xyEAA41-5EYn7g==" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779879486133-qkqdjres8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779879486133-qkqdjres8</odePageId>
+      <odeBlockId>block-1779879629399-0yoszeznw</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779879486133-qkqdjres8</odePageId>
+          <odeBlockId>block-1779879629399-0yoszeznw</odeBlockId>
+          <odeIdeviceId>idevice-1779879629395-omhpslty7</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779879629395-omhpslty7" title="" href="{{context_path}}/content/resources/Línea.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Línea.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779879629395-omhpslty7","img_0":{"img":"{{context_path}}/content/resources/Línea.png","thumbnail":"{{context_path}}/content/resources/Línea.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779879703764-ax39kqld4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779879703764-ax39kqld4</odePageId>
+      <odeBlockId>block-1779879716749-44uzt4rqy</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779879703764-ax39kqld4</odePageId>
+          <odeBlockId>block-1779879716749-44uzt4rqy</odeBlockId>
+          <odeIdeviceId>idevice-1779879716746-x29kp6ajg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /> <br /> </p>
+<table border="1" style="width: 100.037%; height: 949.6px;">
+<tbody>
+<tr style="height: 56.8px;">
+<td style="width: 19.963%; height: 56.8px;"><strong>TAREA</strong></td>
+<td style="width: 19.963%; height: 56.8px;"><strong>CRITERIO DE EVALUACIÓN</strong></td>
+<td style="width: 19.963%; height: 56.8px;"><strong>AGRUPAMIENTO</strong></td>
+<td style="width: 19.963%; height: 56.8px;"><strong>TIEMPO</strong></td>
+<td style="width: 19.963%; height: 56.8px;"><strong>HERRAMIENTA</strong></td>
+</tr>
+<tr style="height: 272.8px;">
+<td style="width: 19.963%; height: 272.8px;">Presentación de la actividad, explicación del proyecto y creación de los grupos cooperativos. Reparto de roles y normas básicas de trabajo en equipo. </td>
+<td style="width: 19.963%; height: 272.8px;">1.1 Participar en situaciones de comunicación oral respetando las normas de interacción y mostrando una actitud de escucha y respeto hacia los demás. </td>
+<td style="width: 19.963%; height: 272.8px;">Gran grupo y posterior creación en grupos de 4-5 alumnos/as </td>
+<td style="width: 19.963%; height: 272.8px;">1 sesión (45 min) </td>
+<td style="width: 19.963%; height: 272.8px;">Classroom y Canva </td>
+</tr>
+<tr style="height: 200.8px;">
+<td style="width: 19.963%; height: 200.8px;">Lluvia de ideas y planificación de la historia (personajes, escenario, inicio, nudo y desenlace). </td>
+<td style="width: 19.963%; height: 200.8px;">5.1 Producir textos escritos y multimodales sencillos, coherentes y adecuados a la situación comunicativa</td>
+<td style="width: 19.963%; height: 200.8px;">Grupos cooperativos ya creados</td>
+<td style="width: 19.963%; height: 200.8px;">1 sesión (45-60 min) </td>
+<td style="width: 19.963%; height: 200.8px;">Google Docs</td>
+</tr>
+<tr style="height: 80.8px;">
+<td style="width: 19.963%; height: 80.8px;">Redacción cooperativa de la historia digital. </td>
+<td style="width: 19.963%; height: 80.8px;">5.2 Elaborar textos narrativos organizando las ideas y respetando la estructura propia del cuento. </td>
+<td style="width: 19.963%; height: 80.8px;">Grupos cooperativos</td>
+<td style="width: 19.963%; height: 80.8px;">1-2 sesiones (60 min) </td>
+<td style="width: 19.963%; height: 80.8px;">Google Docs</td>
+</tr>
+<tr style="height: 176.8px;">
+<td style="width: 19.963%; height: 176.8px;">Diseño visual de la historia incorporando imágenes, portada y elementos creativos. </td>
+<td style="width: 19.963%; height: 176.8px;">6.1 Buscar y seleccionar información e imágenes de forma guiada y segura en entornos digitales. </td>
+<td style="width: 19.963%; height: 176.8px;">Grupos cooperativos</td>
+<td style="width: 19.963%; height: 176.8px;">1 sesión (45-60 min) </td>
+<td style="width: 19.963%; height: 176.8px;">Canva o Genially</td>
+</tr>
+<tr style="height: 128.8px;">
+<td style="width: 19.963%; height: 128.8px;">Revisión y corrección final de la historia antes de entregarla. </td>
+<td style="width: 19.963%; height: 128.8px;">5.3 Revisar y mejorar producciones escritas propias atendiendo a aspectos básicos de presentación, coherencia y corrección lingüística. </td>
+<td style="width: 19.963%; height: 128.8px;">Grupos cooperativos</td>
+<td style="width: 19.963%; height: 128.8px;">1 sesión (45-60 min) </td>
+<td style="width: 19.963%; height: 128.8px;">Google Docs+Canva o Genially</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.963%; height: 32.8px;">Exposición oral de las historias al resto de compañeros/as. </td>
+<td style="width: 19.963%; height: 32.8px;">3.1 Expresar textos orales de forma clara y ordenada </td>
+<td style="width: 19.963%; height: 32.8px;">Gran grupo</td>
+<td style="width: 19.963%; height: 32.8px;">1 sesión (45-60 min) </td>
+<td style="width: 19.963%; height: 32.8px;">Canva o Genially</td>
+</tr>
+</tbody>
+</table>
+<p><br /> <br /> <br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779879716746-x29kp6ajg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /> <br /> </p>\n<table border=\"1\" style=\"width: 100.037%; height: 949.6px;\">\n<tbody>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 19.963%; height: 56.8px;\"><strong>TAREA</strong></td>\n<td style=\"width: 19.963%; height: 56.8px;\"><strong>CRITERIO DE EVALUACIÓN</strong></td>\n<td style=\"width: 19.963%; height: 56.8px;\"><strong>AGRUPAMIENTO</strong></td>\n<td style=\"width: 19.963%; height: 56.8px;\"><strong>TIEMPO</strong></td>\n<td style=\"width: 19.963%; height: 56.8px;\"><strong>HERRAMIENTA</strong></td>\n</tr>\n<tr style=\"height: 272.8px;\">\n<td style=\"width: 19.963%; height: 272.8px;\">Presentación de la actividad, explicación del proyecto y creación de los grupos cooperativos. Reparto de roles y normas básicas de trabajo en equipo. </td>\n<td style=\"width: 19.963%; height: 272.8px;\">1.1 Participar en situaciones de comunicación oral respetando las normas de interacción y mostrando una actitud de escucha y respeto hacia los demás. </td>\n<td style=\"width: 19.963%; height: 272.8px;\">Gran grupo y posterior creación en grupos de 4-5 alumnos/as </td>\n<td style=\"width: 19.963%; height: 272.8px;\">1 sesión (45 min) </td>\n<td style=\"width: 19.963%; height: 272.8px;\">Classroom y Canva </td>\n</tr>\n<tr style=\"height: 200.8px;\">\n<td style=\"width: 19.963%; height: 200.8px;\">Lluvia de ideas y planificación de la historia (personajes, escenario, inicio, nudo y desenlace). </td>\n<td style=\"width: 19.963%; height: 200.8px;\">5.1 Producir textos escritos y multimodales sencillos, coherentes y adecuados a la situación comunicativa</td>\n<td style=\"width: 19.963%; height: 200.8px;\">Grupos cooperativos ya creados</td>\n<td style=\"width: 19.963%; height: 200.8px;\">1 sesión (45-60 min) </td>\n<td style=\"width: 19.963%; height: 200.8px;\">Google Docs</td>\n</tr>\n<tr style=\"height: 80.8px;\">\n<td style=\"width: 19.963%; height: 80.8px;\">Redacción cooperativa de la historia digital. </td>\n<td style=\"width: 19.963%; height: 80.8px;\">5.2 Elaborar textos narrativos organizando las ideas y respetando la estructura propia del cuento. </td>\n<td style=\"width: 19.963%; height: 80.8px;\">Grupos cooperativos</td>\n<td style=\"width: 19.963%; height: 80.8px;\">1-2 sesiones (60 min) </td>\n<td style=\"width: 19.963%; height: 80.8px;\">Google Docs</td>\n</tr>\n<tr style=\"height: 176.8px;\">\n<td style=\"width: 19.963%; height: 176.8px;\">Diseño visual de la historia incorporando imágenes, portada y elementos creativos. </td>\n<td style=\"width: 19.963%; height: 176.8px;\">6.1 Buscar y seleccionar información e imágenes de forma guiada y segura en entornos digitales. </td>\n<td style=\"width: 19.963%; height: 176.8px;\">Grupos cooperativos</td>\n<td style=\"width: 19.963%; height: 176.8px;\">1 sesión (45-60 min) </td>\n<td style=\"width: 19.963%; height: 176.8px;\">Canva o Genially</td>\n</tr>\n<tr style=\"height: 128.8px;\">\n<td style=\"width: 19.963%; height: 128.8px;\">Revisión y corrección final de la historia antes de entregarla. </td>\n<td style=\"width: 19.963%; height: 128.8px;\">5.3 Revisar y mejorar producciones escritas propias atendiendo a aspectos básicos de presentación, coherencia y corrección lingüística. </td>\n<td style=\"width: 19.963%; height: 128.8px;\">Grupos cooperativos</td>\n<td style=\"width: 19.963%; height: 128.8px;\">1 sesión (45-60 min) </td>\n<td style=\"width: 19.963%; height: 128.8px;\">Google Docs+Canva o Genially</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.963%; height: 32.8px;\">Exposición oral de las historias al resto de compañeros/as. </td>\n<td style=\"width: 19.963%; height: 32.8px;\">3.1 Expresar textos orales de forma clara y ordenada </td>\n<td style=\"width: 19.963%; height: 32.8px;\">Gran grupo</td>\n<td style=\"width: 19.963%; height: 32.8px;\">1 sesión (45-60 min) </td>\n<td style=\"width: 19.963%; height: 32.8px;\">Canva o Genially</td>\n</tr>\n</tbody>\n</table>\n<p><br /> <br /> <br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779880327509-nu2jie66t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779880327509-nu2jie66t</odePageId>
+      <odeBlockId>block-1779880343269-xg1ofgex6</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779880327509-nu2jie66t</odePageId>
+          <odeBlockId>block-1779880343269-xg1ofgex6</odeBlockId>
+          <odeIdeviceId>idevice-1779880343266-o9xkvzwmq</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779880343266-o9xkvzwmq" title="" href="{{context_path}}/content/resources/Instrumentos de evaluación.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Instrumentos de evaluación.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779880343266-o9xkvzwmq","img_0":{"img":"{{context_path}}/content/resources/Instrumentos de evaluación.png","thumbnail":"{{context_path}}/content/resources/Instrumentos de evaluación.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779880782753-vgwmy8nzd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779880782753-vgwmy8nzd</odePageId>
+      <odeBlockId>block-1779880785272-fhfazlcpw</odeBlockId>
+      <blockName>Formulario</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779880782753-vgwmy8nzd</odePageId>
+          <odeBlockId>block-1779880785272-fhfazlcpw</odeBlockId>
+          <odeIdeviceId>idevice-1779880785271-9qir1fdvz</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779880782753-vgwmy8nzd</odePageId>
+      <odeBlockId>block-1779880793809-dxzetg3iv</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779880782753-vgwmy8nzd</odePageId>
+          <odeBlockId>block-1779880793809-dxzetg3iv</odeBlockId>
+          <odeIdeviceId>idevice-1779880793808-6zflnk2q3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>👩‍🏫 Autoría<br />Macarena</p>
+<p> <br />📝 Descripción<br />Recurso educativo digital elaborado con eXeLearning, destinado al desarrollo de actividades didácticas que fomentan la competencia digital del alumnado y el uso de herramientas TIC en el aula.</p>
+<p> <br />🧰 Herramientas digitales utilizadas<br />Durante el desarrollo del recurso y/o recomendadas para el alumnado:</p>
+<p>🗂️ Symbaloo<br />🎨 Canva<br />📄 Google Docs<br />📌 Padlet<br />🚀 Genially<br /> <br />⚖️ Licencia de uso<br />Este material se distribuye bajo licencia Creative Commons CC BY-SA 4.0, lo que permite su uso, modificación y distribución siempre que se reconozca la autoría y se comparta bajo la misma licencia.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779880793808-6zflnk2q3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>👩‍🏫 Autoría<br />Macarena</p>\n<p> <br />📝 Descripción<br />Recurso educativo digital elaborado con eXeLearning, destinado al desarrollo de actividades didácticas que fomentan la competencia digital del alumnado y el uso de herramientas TIC en el aula.</p>\n<p> <br />🧰 Herramientas digitales utilizadas<br />Durante el desarrollo del recurso y/o recomendadas para el alumnado:</p>\n<p>🗂️ Symbaloo<br />🎨 Canva<br />📄 Google Docs<br />📌 Padlet<br />🚀 Genially<br /> <br />⚖️ Licencia de uso<br />Este material se distribuye bajo licencia Creative Commons CC BY-SA 4.0, lo que permite su uso, modificación y distribución siempre que se reconozca la autoría y se comparta bajo la misma licencia.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
